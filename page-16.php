@@ -14,7 +14,7 @@
 <br/><br/>
 <p class="sub_content text-center">
 <a href="http://neformalusugdymas.kaunas.lt/wp-content/uploads/sites/11/2015/09/Dėl-programų-tvirtinimo.doc" target="_blank">
-Patvirtintos neformaliojo vaikų švietimo programos.
+Patvirtintos neformaliojo vaikų švietimo programos. !!!!
 </a>
 </p>	
 <p class="sub_content text-center">_________</p>	
